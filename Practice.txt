@@ -3,3 +3,4 @@ Git hub practices
 Java is used
 Maven used for build
 Extent report for reporting
+Testing for local repo
